@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img/starrrrrr.png" alt="KOTYK" style="max-width: 300px;">
+    <img src="img/starrrrrr.png" alt="KOTYK" width="300">
 </div>
 
 > 🇺🇦 **KOTYK** isn't just a cat — it's a **Ukrainian-grade configuration layer**.
